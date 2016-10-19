@@ -4,9 +4,7 @@
 	padding:0;
 	border: 0;
 }
-body {
-	background-color: gray;
-}
+
 .box {
 	position: relative;
 	margin:5px;
@@ -17,7 +15,8 @@ body {
 	margin:0 auto;
 }
 section {	
-	padding-left:5px;
+	padding:0 5px;
+	border: 1px dotted black;
 		
 	
 }
