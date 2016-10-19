@@ -87,7 +87,7 @@ section {
 
 }
 
-@media (min-width: 762px) and (max-width: 930px){
+@media (min-width: 720px) and (max-width: 930px){
 
 .col-md-1, .col-md-2, .col-md-3,
 .col-md-4, .col-md-5, .col-md-6,
@@ -135,7 +135,7 @@ section {
 
 }
 
-@media (min-width: 481px) and (max-width: 761px) {
+@media (min-width: 481px) and (max-width: 719px) {
 
 .col-sm-1, .col-sm-2, .col-sm-3,
 .col-sm-4, .col-sm-5, .col-sm-6,
@@ -183,11 +183,7 @@ section {
 
 }
 
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
-  and (orientation: landscape) {
+@media (max-width: 480px) {
 
 .col-xs-1, .col-xs-2, .col-xs-3,
 .col-xs-4, .col-xs-5, .col-xs-6,
